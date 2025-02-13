@@ -17,8 +17,10 @@ Let’s connect and build something great! 🚀
 #
 
 <h3>Languages and Tools:</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>&nbsp&nbsp
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img alt="NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>&nbsp&nbsp
+[<img alt="JavaScript" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />][JavaScript]
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>&nbsp&nbsp -->
+[<img alt="NodeJs" width="40" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />][NodeJs]
+<!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img alt="NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>&nbsp&nbsp -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img alt="ExpressJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>&nbsp&nbsp
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>&nbsp&nbsp
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img alt="Redux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" /></a>&nbsp&nbsp
@@ -41,3 +43,6 @@ Let’s connect and build something great! 🚀
 
 <h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/stephen-brown-0732895b" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="stephen-brown-0732895b" width="40" /></a>
+
+[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[NodeJs]: https://nodejs.org
